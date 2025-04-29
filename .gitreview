@@ -1,0 +1,7 @@
+[gerrit]
+host=gerrit.circlecat.org
+port=29418
+scheme=ssh
+project=shudong-discord
+defaultbranch=main
+defaultremote=origin
